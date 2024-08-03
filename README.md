@@ -1,4 +1,4 @@
-# Sales-Prediction
+# Sales-Prediction Codsoft Task2
 Dealth with Advertising dataset and predicted the Sales, This data set includes just 3 features which is a simple data,
 the features are TV, Newspaper,Radio and the target is Sales,found the type of the data set is continous.
 As usual I pre processed the data, done EDA(Exploratory Data Analysis), found the distributions of the features,
